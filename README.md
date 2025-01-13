@@ -28,7 +28,7 @@ This project involves analyzing the orders dataset to gain insights into sales t
   
   Data_Project.ipynb: Jupyter Notebook containing Python code for data cleaning and EDA
   
-  orders_analysis.sql: SQL queries used for data exploration (if applicable)
+  orders_analysis.sql: SQL queries used for data exploration 
   
   cleaned_orders.csv: Cleaned dataset ready for Power BI visualization
   
