@@ -20,6 +20,7 @@ This project involves analyzing the orders dataset to gain insights into sales t
       Regional sales trends
   
       Categorical Sales
+     
    
 **Repository Contents**
 
@@ -30,12 +31,14 @@ This project involves analyzing the orders dataset to gain insights into sales t
   orders_analysis.sql: SQL queries used for data exploration (if applicable)
   
   cleaned_orders.csv: Cleaned dataset ready for Power BI visualization
+  
 
 **Results**
 
   Gained insights into the most profitable regions and categories
   
   Identified trends in sales, shipping times, and correlations between variables
+  
 
 **Future Scope**
 
